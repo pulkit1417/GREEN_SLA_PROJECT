@@ -1,7 +1,7 @@
 {
-  "hosts": 10,
-  "vms": 10,
-  "cloudlets": 30,
+  "hosts": 211,
+  "vms": 6000,
+  "cloudlets": 266,
   "mode": "GREEN",
-  "carbonFactor": 0.0005
+  "carbonFactor": 0.0099
 }
